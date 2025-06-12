@@ -1,0 +1,22 @@
+# === Django ===
+*.pyc
+__pycache__/
+env/
+*.sqlite3
+db.sqlite3
+*.log
+media/
+staticfiles/
+.env
+
+# === React ===
+frontend/node_modules/
+frontend/.env
+
+# === VS Code & System Files ===
+.vscode/
+.DS_Store
+.idea/
+*.swp
+*.bak
+*.tmp
