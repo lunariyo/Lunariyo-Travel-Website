@@ -8,7 +8,7 @@ db.sqlite3
 media/
 staticfiles/
 .env
-backend\env
+backend/env/
 
 # === React ===
 frontend/node_modules/
